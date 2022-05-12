@@ -54,6 +54,7 @@ class CartActivity : AppCompatActivity() {
         val plist= MainActivity.dbCart.getPizzas(ctx)
         var total=0
         for(i in plist){
+            total+=i.Qnt*i.price
         }
         return total
     }

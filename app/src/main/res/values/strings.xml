@@ -3,7 +3,7 @@
     <string name="name">Non Veg Pizza</string>
     <string name="description">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua</string>
     <string name="cart_btn_txt">View Cart</string>
-    <string name="add_btn_txt">Add</string>
+    <string name="add_btn_txt">Select</string>
     <string name="txt1">Select Crust</string>
     <string name="crust1">Hand-tossed</string>
     <string name="crust2">Cheese Burst</string>
@@ -14,7 +14,7 @@
     <string name="price">265</string>
     <string name="amount">Price</string>
     <string name="inr">₹</string>
-    <string name="add_to_cart">Add to Cart</string>
+    <string name="add_to_cart">Done</string>
     <string name="cancel">Cancel</string>
     <string name="cart">Your Cart</string>
     <string name="total_amount">Total Price</string>
@@ -22,4 +22,5 @@
     <string name="pizza_name">Pizza Name</string>
     <string name="total_pizza">Total Pizzas</string>
     <string name="no_pizza">0</string>
+    <string name="add_cart_btn_txt">Add to Cart</string>
 </resources>
